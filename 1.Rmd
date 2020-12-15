@@ -11,16 +11,16 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Billable Work
-AFP6 cross sections
-Report text drafting
-CVX Guadalupe work
+## Billable Work
+AFP6 cross sections  
+Kenai cross sections  
+AFP6 contour maps  
 
-# To dos 
-NGWA Groundwater Week
+## To dos 
+Buy NA beer  
 
-## Lunch  
-Hambones
+## Lunch
+Safeway Chicken  
 
 ## Training  
 ``` {r train, echo=FALSE}
@@ -29,12 +29,12 @@ kable(today_train)
 
 ## Skill Development  
 How to do a cross section with QGIS
-https://www.hatarilabs.com/ih-en/tutorial-to-do-a-cross-section-with-qgis
+https://www.hatarilabs.com/ih-en/tutorial-to-do-a-cross-section-with-qgis  
 
-3D structural modeling in Python with Gempy
-https://www.hatarilabs.com/ih-en/3d-structural-geological-modeling-in-python-with-gempy-tutorial
+Gempy Tutorials 1.2 Data Structure and Manipulation
+https://www.gempy.org/tutorials  
 
 ## Personal
-Contact Coyde about reference
-Contant Ben about reference
+Respond to T Minckley
+
 

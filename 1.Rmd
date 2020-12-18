@@ -12,15 +12,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Billable Work
-AFP6 cross sections  
-Kenai cross sections  
-AFP6 contour maps  
+9 AM Call AFP6
 
 ## To dos 
-Buy NA beer  
+Zwift  
 
 ## Lunch
-Safeway Chicken  
+Egg Sandwich
 
 ## Training  
 ``` {r train, echo=FALSE}
@@ -35,6 +33,6 @@ Gempy Tutorials 1.2 Data Structure and Manipulation
 https://www.gempy.org/tutorials  
 
 ## Personal
-Respond to T Minckley
+Zoom with T Minckley?
 
 

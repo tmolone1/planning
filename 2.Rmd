@@ -1,0 +1,49 @@
+---
+title: "Daily Schedule"
+author: "`r weekdays.Date(Sys.Date()+1)`"
+date: "`r format(Sys.Date(), '%m/%d/%Y')`"
+output: 
+  word_document:
+    reference_docx: word-styles-reference-01.docx
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Schedule
+6AM: Lauds  
+7AM: Weights (basement)  
+7:45AM:  Drive to work, put Trek in back of truck  
+8AM: work emails, scheduling  
+9AM: physical therapy exercises and walk to bridge  
+10AM:  
+11:15 AM – drive home  
+11:30AM: Lunch (walmart)  
+1 PM: Let the food settle.  Plan for the afternoon.  Take a break from work and plan the weekend.  
+1:30 PM:  
+3:30 PM Farmers Market - buy steaks  
+5-6 PM – Bike ride  
+6 PM: Vespers  
+6:30 PM – dinner time  
+  
+9 PM – Compline  
+
+
+## To dos 
+pack cookies in car  
+pack resistance band  
+unload Krampus and CC from Truck night before  
+
+## Training  
+``` {r train, echo=FALSE}
+kable(today_train)
+```
+
+## Skill Development  
+..
+
+## Personal
+..
+
+

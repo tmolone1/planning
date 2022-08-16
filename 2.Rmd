@@ -1,15 +1,23 @@
 ---
-title: "Daily Schedule"
-author: "`r weekdays.Date(Sys.Date()+1)`"
-date: "`r format(Sys.Date(), '%m/%d/%Y')`"
+title: "Interference Investigation Report"
+
+subtitle: "Gabriel Ruiz Vs. Gross Wilkinson Ranch "
+
+date: "`r format(Sys.Date(), '%B %Y')`"
+
+toc: true
+toc-title: Table of Contents
+number-sections: true
 output: 
   word_document:
-    reference_docx: word-styles-reference-01.docx
+    reference_docx: word-styles-reference-SEO_Interference_report.docx
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+{{< pagebreak >}}
+
 
 ## Schedule
 6AM: Lauds  
@@ -35,10 +43,7 @@ pack cookies in car
 pack resistance band  
 unload Krampus and CC from Truck night before  
 
-## Training  
-``` {r train, echo=FALSE}
-kable(today_train)
-```
+{{< pagebreak >}}
 
 ## Skill Development  
 ..

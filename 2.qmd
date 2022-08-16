@@ -1,0 +1,52 @@
+---
+format: 
+  docx:
+    reference-doc: word-styles-reference-SEO_Interference_report.docx
+title: "Interference Investigation Report"
+subtitle: "Gabriel Ruiz Vs. Gross Wilkinson Ranch "
+date: "`r format(Sys.Date(), '%B %Y')`"
+author: "Ground Water Division, Wyoming State Engineer's Office"
+toc: true
+toc-title: Table of Contents
+number-sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+{{< pagebreak >}}
+
+# Introduction
+
+On June 15, 2022, the Wyoming State Engineer's Office (SEO) received a letter from Mr. Daniel B. Frank, a lawyer representing Mr. Gabriel Ruiz, requesting a formal Interference Investigation. The letter requested the SEO evaluate potential damage to the Sherard Well No. 6, Permit No. U.W. 5461 by the Bill Ward No. 2 Well, Permit No. U.W. 8539, and Enl. Bill Ward No. 2 Well, Permit No. U.W. 12665. This letter is included in Appendix A.\
+
+## Complaint
+
+Mr. Ruiz contends that pumping from the Bill Ward No. 2 Well (and it's enlargement) draws down the level of the water in the gravel pit to the extent that it interferes with his Sherard Well No. 6 water rights for fish culture and recreational purposes. Mr. Ruiz requested an interference investigation pursuant to Wyo. Stat. § 41-3-911(b).
+
+Mr. Ruiz also believes that his Sherard Well No. 6 water rights and the Gross-Wilkinson Ranch, LLC' Bill Ward No. 2 are from the same source of supply, being the LaGrange Aquifer, and requested correlation of the priorities of water rights from this supply into a single schedule pursuant to Wyo. Stat. § 41-3-916. Mr. Ruiz suggested that it may be appropriate for the state engineer to adopt by order any of the corrective controls specified in Wyo. Stat. § 41-3-915.
+
+Upon initial review of records, SEO personnel established the following:
+
+1.  Valid water rights appear to exist for each of the wells in question.
+
+2.  The wells are screened in the LaGrange Aquifer alluvium. The Bill Ward No. 2 Well is 60 feet deep, and the Sherard Well No. 6 Well is 43 feet deep. Both wells are screened across the full saturated thickness of the alluvium at their respective locations.
+
+3.  The priority date of the Sherard Well No. 6 (05/14/1970) is senior to the priority date of the Bill Ward No. 2 Well (03/17/1971).
+
+4.  The Sherard No. 6 Well is permitted for irrigation and miscellaneous use. The remarks section of the permit states that the miscellaneous use is for fish culture and recreational purposes.
+
+5.  The Bill Ward No. 2 Well is permitted for irrigation use. The remarks section of the permit states that the property owners (at the time) agreed that Permit No. U.W. 5461 (Sherard No. 6) would have first right to use of the water.
+
+{{< pagebreak >}}
+
+# Authority
+
+..
+
+{{< pagebreak >}}
+
+## Geologic and Hydrogeologic Overview
+
+..

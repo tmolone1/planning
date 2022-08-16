@@ -14,4 +14,5 @@ today_train<-training[training$`Week:`==today,t]
 Sys.Date()+1
 
 rmarkdown::render("1.Rmd", output_file = "1.docx")
-rmarkdown::render("2.Rmd", output_file = "2.docx")
+quarto::quarto_render("2.qmd", output_file = "2.docx")
+

@@ -3,12 +3,29 @@ format:
   docx:
     reference-doc: word-styles-reference-SEO_Interference_report.docx
 title: "Interference Investigation Report"
-subtitle: "Gabriel Ruiz Vs. Gross Wilkinson Ranch "
-date: "`r format(Sys.Date(), '%B %Y')`"
-author: "Ground Water Division, Wyoming State Engineer's Office"
+date: |
+  `r format(Sys.Date(), '%B %Y')`
+  \
+  \
+  \
+subtitle: |+
+  \
+  \
+  Gabriel Ruiz\
+  \
+  vs.\
+  \
+  Gross Wilkinson Ranch
+  \
+  \
+author: |+
+  Ground Water Division\
+  Wyoming State Engineer's Office\
 toc: true
 toc-title: Table of Contents
+toc-depth: 2
 number-sections: true
+eol: crlf
 ---
 
 ```{r setup, include=FALSE}
@@ -23,7 +40,7 @@ On June 15, 2022, the Wyoming State Engineer's Office (SEO) received a letter fr
 
 ## Complaint
 
-Mr. Ruiz contends that pumping from the Bill Ward No. 2 Well (and it's enlargement) draws down the level of the water in the gravel pit to the extent that it interferes with his Sherard Well No. 6 water rights for fish culture and recreational purposes. Mr. Ruiz requested an interference investigation pursuant to Wyo. Stat. § 41-3-911(b).
+Mr. Ruiz contends that pumping from the Bill Ward No. 2 Well (and its enlargement) draws down the level of the water in the gravel pit to the extent that it interferes with his Sherard Well No. 6 water rights for fish culture and recreational purposes. Mr. Ruiz requested an interference investigation pursuant to Wyo. Stat. § 41-3-911(b).
 
 Mr. Ruiz also believes that his Sherard Well No. 6 water rights and the Gross-Wilkinson Ranch, LLC' Bill Ward No. 2 are from the same source of supply, being the LaGrange Aquifer, and requested correlation of the priorities of water rights from this supply into a single schedule pursuant to Wyo. Stat. § 41-3-916. Mr. Ruiz suggested that it may be appropriate for the state engineer to adopt by order any of the corrective controls specified in Wyo. Stat. § 41-3-915.
 
@@ -41,12 +58,126 @@ Upon initial review of records, SEO personnel established the following:
 
 {{< pagebreak >}}
 
-# Authority
+## Authority
+
+W.S. § 41-3-911 provides the statutory framework for interference. It provides an enforceable legal remedy for surface water or groundwater appropriators whose rights are impaired by an interfering appropriator. The statute is applicable only when the impairment arises between two ground water appropriators, or between a ground water and surface water appropriator.\
+
+The statutes relating to interference are:\
+
+    §41-3-911.  Authority to order interfering appropriator to cease withdrawals of water; hearing complaints by appropriators.
+
+        a.  Whenever a well withdrawing water for beneficial purposes shall interfere unreasonably with an adequate well developed solely for domestic or stock uses as defined in W.S. 41-3-907, whether in a control area or not, the state engineer may, on complaint of the operator of the stock or domestic well, order the interfering appropriator to cease or reduce withdrawals of underground water, unless such appropriator shall furnish at his own expense, sufficient water at the former place of use to meet the need for domestic or stock use. In case of interference between two (2) wells utilizing water for stock or domestic use as defined in W.S. 41-3-07, the appropriation with the earliest priority shall have the better right. 
+
+        b.  Any appropriator of either surface or underground water may file a written complaint alleging interference with his water right by a junior right. Complaints are to be filed with the state engineer and are to be accompanied by a fee of one hundred dollars ($100.00) to help defray costs of investigation. This section is not applicable to interference between two (2) surface water rights. Upon receiving the complaint and fee, the state engineer shall undertake an investigation to determine if the alleged interference does exist. Following the investigation, the state engineer shall issue a report to all interested parties stating his findings. The report may suggest various means of stopping, rectifying or ameliorating the interference or damage caused thereby. 
+
+         c. Any interested appropriator who is dissatisfied with the results of the foregoing procedure may proceed under the applicable provisions of the Wyoming Administrative Procedure Act [§§-16-3-101 through 16-3-115]. If a hearing is to be held, it shall be held before the appropriate water division superintendent. The superintendent shall report to the board of control at its next meeting. The board shall issue its order to include findings of fact and conclusions of law.
+
+    §41-3-916.  Priority of rights when 1 source of supply. Where underground waters in different aquifers are so interconnected as to constitute in fact one source of supply, or where underground waters and the waters of surface streams are so interconnected as to constitute in fact one source of supply, priorities of rights to the use of all such interconnected waters shall be correlated and such single schedule of priorities shall relate to the whole common water supply. The state engineer may by order adopt any of the corrective controls specified in W.S. § 41 3 915.
+
+    §41-3-933.  Express conditions limiting rights of appropriator; additional conditions. It is an express condition of each underground water permit that the right of the appropriator does not include the right to have the water level or artesian pressure at the appropriator's point of diversion maintained at any level or pressure higher than that required for maximum beneficial use of the water in the source of supply. The state engineer may issue any permits subject to such conditions as he may find to be in the public interest.
+
+    §41-3-102.  Preferred uses; defined; order of preference.
+
+        (a)  Water rights are hereby defined as follows according to use: preferred uses shall include rights for domestic and transportation purposes, steam power plants, and industrial purposes; existing rights not preferred, may be condemned to supply water for such preferred uses in accordance with the provisions of the law relating to condemnation of property for public and semi public purposes except as hereinafter provided. 
+
+        (b)  Preferred water uses shall have preference rights in the following order: 
+            (i)     Water for drinking purposes for both man and beast; 
+            (ii Water for municipal purposes; 
+            (iii)   Water for the use of steam engines and for general railway use, water for culinary, laundry, bathing, refrigerating (including the manufacture of ice), for steam and hot water heating plants, and steam power plants; and 
+            (iv)    Industrial purposes. 
+
+        (c)  The use of water for irrigation shall be superior and preferred to any use where water turbines or impulse water wheels are installed for power purposes; provided, however, that the preferred use of steam power plants and industrial purposes herein granted shall not be construed to give the right of condemnation.
+
+{{< pagebreak >}}
+
+## Water Rights
+
+Appendix B provides copies of the permit documentation for the Sherard No. 6 and Bill Ward No. 2 wells. Figure 1 illustrates the location of selected area groundwater wells. Summaries for completion and permit information for the wells referenced in this report are included on Table 1. Additionally, detailed information regarding the construction is provided below.
+
+{{< pagebreak >}}
+
+# Geologic and Hydrogeologic Overview
 
 ..
 
 {{< pagebreak >}}
 
-## Geologic and Hydrogeologic Overview
+## Stratigraphy
 
+..
+
+{{< pagebreak >}}
+
+## Hydrogeology
+
+.. {{< pagebreak >}}
+
+# Horse Creek Order
+
+The Horse Creek Order is an order issued by the Wyoming State Engineer ("The Order"). The Order was first issued on July 19, 2013, and an ammended order was issued May 31, 2017. The Order was issued for the LaGrange Aquifer and surface water diversions from Horse Creek at and below the Brown and LaGrange diversion in southern Goshen County, Wyoming. The wells subject to this interference complaint, Sherard No. 6 and Bill Ward No. 2, are located in the area affected by the Horse Creek Order. The wells are completed in the LaGrange Aquifer.\
+\
+The Horse Creek Order was issued in response to concerns over increasing conflicts between surface water and groundwater resources, which are detailed in a technical study of the project area (Hinckley Consulting and AMEC 2011). The Order closed the LaGrange Aquifer to further permitting of large capacity wells, and required the adjudication of previously unadjudicated groundwater permits. Also, groundwater used for irrigation from the LaGrange Aquifer was limited to 12 inches per year for the three year subsequent to 2014, and a total of 36 inches over that period. Some flexibility within the 3-year period was allowed. All groundwater wells permitted for over 25 gallons per minute were required to have flow meters installed, and annual use reporting was required. These limitations to groundwater use were placed in lieu of calls for regulation from surface water rights.\
+\
+Surface water diversions, and reservoirs, were required to have acceptable control and measurement capabilities. Those diversions seeking to divert water during the winter were required to have acceptable control and measurement capabilities prior to diverting in the winter of 2013-2014, and any such diversions were required to be spread across the appropriate permitted (or adjudicated) acres up to the soil holding capacity only.\
+\
+The Order has been reassessed periodically since its issuance. The 2017 ammended order increased the groundwater production cap from 12 acre-in per year to 15 acre in per year, with a three year rolling cap of 45 acre in per year.\
+\
+Both wells subject of this interference complaint have production caps associated with the Horse Creek Order and meter/reporting requirements to report production data to the SEO. This information is compiled annually in the SEO Hydrographer Reports for Division I. A compilation of this information for the years 2017-2021 is provided in Table 1. According to Table 1, both water rights generally pump an amount of water well below their allotted annual production cap.  In the case of Sherard No. 6, the lack of pumping is an attempt to preserve the water level in the adjacent gravel pit (Gabriel Ruiz, personal communication, 8/18/2022).\
+\
+
+{{< pagebreak >}}
+
+# Data and Analysis
+
+..
+
+{{< pagebreak >}}
+
+## Groundwater Level Data
+
+..
+
+{{< pagebreak >}}
+
+## Groundwater Production Data
+
+..
+
+{{< pagebreak >}}
+
+## Estimated Theroetical Cones of Depression
+
+..
+
+{{< pagebreak >}} 
+# Options
+
+The Ground Water Division has identified potential solutions for ameliorating the impacts which were likely experienced at the Sherard No. 6 well. These solutions are presented in no particular order.\
+
+## No Regulation.
+
+The Horse Creek Order specifies that the alluvial aquifer of Horse Creek and the regional streams are one source of supply. The Horse Creek Order conservation measures were specifically intended to the prevent priority regulation of groundwater wells. Adopting priority regulation of a subset of groundwater wells in the context of this interference complaint circumvents the Horse Creek Order, is inconsistent with the Horse Creek Order, and is contrary to the principles of Wyoming Water Law in that the principle of first in time, first in right, would be applied selectively, rather than equally, across all the appropriators of the single source of supply.\
+
+## Require use of water by Sherard No. 6 before interference can be claimed.
+
+SEO records indicate that no water has been produced by the Sherard No. 6 well since 2018. Beneficial use is the basis, measure, and the limit of all water rights. As there has been no water produced, there can have been no beneficial use, and the Sherard No. 6 water right may be eligible for abandonment under Wyo. Stat. 41-3-401. While it is possible that this is due to limited water supply because of ongoing interference, field personnel should establish whether it is possible to pump an instantaneous supply of 550 GPM from Sherard No. 6.\
+
+## Furnishment of water at the expense of the junior appropriator.
+
+If it can be shown that the Sherard No. 6 Well cannot yield 550 GPM during the irrigation season by active pumping, the provision of 550 GPM to the owner of the Sherard No. 6 Well at the specified point of use (i.e., Gravel Pit in NWSW of Sec 33, T20N, R61W) by owner of the Bill Ward No. 2 well, would seem to be appropriate, consistent with Wyo. Stat. 41-3-911(a), although it should be noted this section pertains only to interference with domestic or stock wells specifically. This would function to supply the Sherard No. 6 water right. This would not function to maintain any specific water level in the gravel pit. Per Wyo. Stat. 41-3-933, the water level or pressure at the appropriator's point of division is not maintained any level higher than that required for maximum beneficial use of the water in the source of supply. The Sherard No. 6 water right has no claim to this water on the basis of use specifically. The Sherard No. 6 water right specifies that miscellaneous use (Fish culture and recreational purposes) is a valid beneficial use of the water. Beneficial use is the basis, measure, and the limit of all water rights. If the 550 GPM during the irrigation season is not beneficially applied for fish culture, recreational purposes, or irrigation purposes, the owner of Sherard No. 6 is legally obligated to forgo the water right and allow the water to be put to beneficial use by junior appropriators, i.e. the owner of Bill Ward No. 2.\
+
+## Curtailment of production from Bill Ward No. 2 to a "reasonable" level of interference.
+
+SEO records suggest that average annual water production from Bill Ward No. 2 Well during the last 5 years (2017-2021) was 96.34 acre-feet per year. Our calculations of the cones of depression caused by pumping Sherard No. 6 and Bill Ward No. 2 suggest that there would be a 31% overlap of the cones of depression if each well was operated for 95 days, with Sherard No. 6 pumping 550 GPM and Bill Ward No. 2 pumping 180 GPM. If this were the entire production for the year, the annualized production rate from Bill Ward No. 2 would be approximately 76 acre feet per year. This would be approximately 80% of the average annual production from Bill Ward No. 2 over the last 5 years. This reduction in pumping rate would reduce the magnitude of interference with Sherard No. 6 to a "reasonable" level, consistent with the use of the language "unreasonable interference" in Wyo. Stat. 41-3-911(a) while allowing continued operation of Bill Ward No. 2 to support irrigation use. Again, the statement about "unreasonable interference" occurs in reference to interference with domestic and stock wells specifically.\
+
+## User Agreement
+
+Wyo. Stat. §41-3-915(c) specifies that appropriators within a Control Area “may agree to any method or scheme of control of withdrawals, well spacing, apportionment, rotation or proration of the common supply of underground water.”  The State Engineer encourages and promotes such agreements. Although the subject area is not a Control Area, it is analogous given its regulated status under the Horse Creek Order.  A User Agreement might provide a mechanism for implementing one of options described above.  A voluntary user agreement may be the most effective way to ration the available water resources.  The original property owners acknowledged this in stating in the remarks section of Permit No. U.W. 8539 that there was an agreement between the property owners (at the time) that Permit No. U.W. 5461 (Sherard No. 6) would have first right to use of the water.  The presence of that user agreement, however, does not diminish the validity of the Bill Ward No. 2 water right.  Personal communication with Gabriel Ruiz (8/18/2022) In the absence of a current workable user agreement; 
+
+## Regulation of Bill Ward No. 2.
+
+Withdrawals of water from Bill Ward No. 2 could be stopped, to protect the senior water right of Sherard No. 6. This option is not preferred because of existing measures to conserve water and prevent priority regulation of groundwater wells in this area (Horse Creek Order). It is also likely that other wells contribute to the interference with Sherard No. 6, and it is possible and likely that nearby junior appropriator wells interfere with Bill Ward No. 2. Invoking this regulation mechanism would likely trigger a cascade of interference complaints that would expand outward to the point that most or all users of the single source of supply would become involved. This would likely result in priority regulation of all groundwater wells in the LaGrange Aquifer in a single schedule of priorities (Wyo. Stat. 41-3-916) in combination with surface water, which would result in the curtailment of groundwater use generally in favor of senior surface water rights.\
+
+{{< pagebreak >}} 
+# Conclusions and Recommendations
 ..

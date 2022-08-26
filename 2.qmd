@@ -54,9 +54,7 @@ Upon initial review of records, SEO personnel established the following:
 
 4.  The Sherard No. 6 Well is permitted for irrigation and miscellaneous use. The remarks section of the permit states that the miscellaneous use is for fish culture and recreational purposes.
 
-5.  The Bill Ward No. 2 Well is permitted for irrigation use. The remarks section of the permit states that the property owners (at the time) agreed that Permit No. U.W. 5461 (Sherard No. 6) would have first right to use of the water.
-
-{{< pagebreak >}}
+5.  The Bill Ward No. 2 Well is permitted for irrigation use. The remarks section of the permit states that the property owners (at the time) agreed that Permit No. U.W. 5461 (Sherard No. 6) would have first right to use of the water.\
 
 ## Authority
 
@@ -88,7 +86,7 @@ The statutes relating to interference are:\
 
         (c)  The use of water for irrigation shall be superior and preferred to any use where water turbines or impulse water wheels are installed for power purposes; provided, however, that the preferred use of steam power plants and industrial purposes herein granted shall not be construed to give the right of condemnation.
 
-{{< pagebreak >}}
+\
 
 ## Water Rights
 
@@ -98,19 +96,25 @@ Appendix B provides copies of the permit documentation for the Sherard No. 6 and
 
 # Geologic and Hydrogeologic Overview
 
-..
-
-{{< pagebreak >}}
+The geology of the LaGrange area in southeastern Wyoming was described by Rapp and others (1957) in their report on the geology and ground-water resources of Goshen County and by Borchert (1976) in a report on the geohydrology of the Albin and LaGrange areas.  Annual precipitation in nearby Torrington, Wyoming is approximately 14 inches per year (Rapp et al. 1957, NOAA U.S. Climate Normals 1991-2020). Mean net evaporation estimated using the Kohler-Nordenson-Fox equation with a coefficient of 0.7 for free-water surface evaporation at Whalen Diversion Dam (approximately 50 miles northwest of LaGrange) is approximately 34.8 inches per year based on data collected from 1949 to 1991 (Curtis and Grimes 2004).\
 
 ## Stratigraphy
 
-..
-
-{{< pagebreak >}}
+Geologic strata occurring in the vicinity of LaGrange include the Lance Formation of Late Cretaceous age, the Chadron and Brule Formations of the White River Group of Oligocene age, the Arikaree Formation of early Miocene age, the terrace deposits of Pleistocene age, and the alluvium of Pleistocene and Holocene age. Geologic maps and stratigraphic columns of the area were developed by Borchert (1976) and refined by Stafford and Loveland (2020).\
 
 ## Hydrogeology
 
-.. {{< pagebreak >}}
+The Lance, Chadron, and Arikaree Formations are not significant aquifers in the La Grange area (Borchert 1976). Transmissive units that form aquifers in the vicinity of LaGrange are the alluvium and the Brule Formation of the White River Group.\
+\
+The alluvium consists of valley-fill deposits in the vicinity of La Grange and floodplain deposits extending along most of Horse Creek and its principal tributary, Bear Creek. The alluvium is saturated and permeable in the lowlands near Horse Creek, and is hydraulically connected with most of the underlying White River Group. Transmissivity estimates for the alluvium provided in Borchert (1976) range from 17200 ft2/d to 50,200 ft2/d with a mean of 33,150 ft2/d.\
+\
+The Brule Formation is the uppermost formation of the White River Group and underlies the alluvium in the valley of Horse Creek. The Brulé formation consists of relatively uniform moderately well-consolidated silt and very fine grained sand and massive, moderately hard, brittle, argillaceous siltstone. It is generally considered an aquitard, but may exhibit fracturing and secondary permeability in certain areas, resulting in significant local water production. Both the Sherard No 6 well and the Bill Ward No. 2 well produce water from alluvium. The Bill Ward No. 2 Well is 60 feet deep and the geologic log of the well makes no mention of the Brule Formation or other hard/impermeable material, so it may be possible to deepen the well slightly in alluvial material. However, the alluvium is generally understood to be approximately 60 feet thick in most of this area. The Sherard No. 6 well is 43 feet deep and the geologic log of the location notes clay/hardpan at 36 feet, which suggests the top of the Brule Formation. It may be possible to produce additional water at either location by deepening the well and attempting to access fracture permeability in the Brule Formation. However, this could also be unsuccessful if attempted, at considerable expense.\
+\
+The Sherard No. 6 and Bill Ward No. 2 wells are in an area for which the numerical model constructed by Hinckley Consulting and AMEC (2011) used 89.14 ft/d as the hydraulic conductivity value. As this model was constructed and parameterized using available pumping test and water level data from all wells in the surrounding area, this value is considered the best available estimate of hydraulic conductivity at the location of the wells. It is possible that local production test data would yield a different hydraulic conductivity value, however.\
+\
+In the area east of Horse Creek, Hawk Springs Reservoir and 14 adjacent wells used to supplement surface-water supply in the reservoir are in a natural discharge area. The area upgradient of the reservoir contains over 30 irrigation wells. In this area, declining water levels have caused concern about the effects of well pumping on the hydrologic system for decades. Numerical modeling by Borchert (1985) and Hinckley Consulting and AMEC (2011) was conducted to evaluate the connection between groundwater and surface water resources and determine the sustainable rate of groundwater production. The First Amended Order of the State Engineer - Horse Creek Basin was issued based on the results of the Hinckley Consulting and AMEC (2011) modeling.\
+
+{{< pagebreak >}}
 
 # Horse Creek Order
 
@@ -122,8 +126,7 @@ Surface water diversions, and reservoirs, were required to have acceptable contr
 \
 The Order has been reassessed periodically since its issuance. The 2017 ammended order increased the groundwater production cap from 12 acre-in per year to 15 acre in per year, with a three year rolling cap of 45 acre in per year.\
 \
-Both wells subject of this interference complaint have production caps associated with the Horse Creek Order and meter/reporting requirements to report production data to the SEO. This information is compiled annually in the SEO Hydrographer Reports for Division I. A compilation of this information for the years 2017-2021 is provided in Table 1. According to Table 1, both water rights generally pump an amount of water well below their allotted annual production cap.  In the case of Sherard No. 6, the lack of pumping is an attempt to preserve the water level in the adjacent gravel pit (Gabriel Ruiz, personal communication, 8/18/2022).\
-\
+Both wells subject of this interference complaint have production caps associated with the Horse Creek Order and meter/reporting requirements to report production data to the SEO. This information is compiled annually in the SEO Hydrographer Reports for Division I. A compilation of this information for the years 2017-2021 is provided in Table 1. According to Table 1, both water rights generally pump an amount of water well below their allotted annual production cap. In the case of Sherard No. 6, the lack of pumping is an attempt to preserve the water level in the adjacent gravel pit (Gabriel Ruiz, personal communication, 8/18/2022).\
 
 {{< pagebreak >}}
 
@@ -131,53 +134,58 @@ Both wells subject of this interference complaint have production caps associate
 
 ..
 
-{{< pagebreak >}}
-
 ## Groundwater Level Data
 
-..
+Information on pump flow rates and water levels from the statements of completion of the wells under consideration is summarized in Table 1.  Apart from the information on the statement of completion, there are no available water level records for either well.  The SEO monitors groundwater levels at several monitoring wells located within a few miles of this location.  The nearest monitoring wells are J. Ward, located about 0.75 miles west of the gravel pit, Ward's Yard about 1.25 miles west of the gravel pit, and LaGrange No. 1, located about 2 miles southeast of the gravel pit.  Hydrographs for these three wells and a map showing their locations are included in Appendix C. 
 
-{{< pagebreak >}}
+Water levels at each location have declined somewhat since 2016, corresponding to a generally drier period.  Relative to historical water levels recorded since approximately 1980, current water levels at Ward's Yard are approximately the same, J. Ward is about 10 feet below it's historical mean water level, and LaGrange No. 1 is about 7 feet below it's 1980-2000 water level, which is comparable to levels observed at that location during the early 2000s.  
 
 ## Groundwater Production Data
 
-..
-
-{{< pagebreak >}}
+Production meter readings collected by SEO personnel were used to tabulate total annual water production for each well to assess compliance with the Horse Creek Order.  This information is released in annual hydrographer reports for Water Division 1, District 2.  Table 2 contains the compiled annual production reported from Bill Ward No. 2 and Sherard No. 6.  The data shows that the average annual production from Bill Ward No. 2 from 2017 to 2021 was 94.71 acre-feet per year.  This would correspond to pumping approximately 226 gallons per minute continuously during a 95 day irrigation season. Sherard No. 6 shows no production since 2018.  During 2017 and 2018, when the well was pumped, the average annual production from Sherard No. 6 was 8.2 acre-feet per year.  This would correspond to pumping approximately 20 gallons per minute continuously during a 95 day irrigation season.  Both of these pumping rates are a small fraction of the permitted appropriation amount associated with each water right (approximately 10% of the appropriation amount for Bill Ward No. 2 and 1% of the appropriation amount for Sherard No. 6).
 
 ## Estimated Theroetical Cones of Depression
 
 ..
 
-{{< pagebreak >}} 
+{{< pagebreak >}}
+
 # Options
 
 The Ground Water Division has identified potential solutions for ameliorating the impacts which were likely experienced at the Sherard No. 6 well. These solutions are presented in no particular order.\
 
-## No Regulation.
+## No Regulation
 
 The Horse Creek Order specifies that the alluvial aquifer of Horse Creek and the regional streams are one source of supply. The Horse Creek Order conservation measures were specifically intended to the prevent priority regulation of groundwater wells. Adopting priority regulation of a subset of groundwater wells in the context of this interference complaint circumvents the Horse Creek Order, is inconsistent with the Horse Creek Order, and is contrary to the principles of Wyoming Water Law in that the principle of first in time, first in right, would be applied selectively, rather than equally, across all the appropriators of the single source of supply.\
 
-## Require use of water by Sherard No. 6 before interference can be claimed.
+## Require use of water by Sherard No. 6 before interference can be claimed
 
 SEO records indicate that no water has been produced by the Sherard No. 6 well since 2018. Beneficial use is the basis, measure, and the limit of all water rights. As there has been no water produced, there can have been no beneficial use, and the Sherard No. 6 water right may be eligible for abandonment under Wyo. Stat. 41-3-401. While it is possible that this is due to limited water supply because of ongoing interference, field personnel should establish whether it is possible to pump an instantaneous supply of 550 GPM from Sherard No. 6.\
 
-## Furnishment of water at the expense of the junior appropriator.
+## Furnishment of water at the expense of the junior appropriator
 
 If it can be shown that the Sherard No. 6 Well cannot yield 550 GPM during the irrigation season by active pumping, the provision of 550 GPM to the owner of the Sherard No. 6 Well at the specified point of use (i.e., Gravel Pit in NWSW of Sec 33, T20N, R61W) by owner of the Bill Ward No. 2 well, would seem to be appropriate, consistent with Wyo. Stat. 41-3-911(a), although it should be noted this section pertains only to interference with domestic or stock wells specifically. This would function to supply the Sherard No. 6 water right. This would not function to maintain any specific water level in the gravel pit. Per Wyo. Stat. 41-3-933, the water level or pressure at the appropriator's point of division is not maintained any level higher than that required for maximum beneficial use of the water in the source of supply. The Sherard No. 6 water right has no claim to this water on the basis of use specifically. The Sherard No. 6 water right specifies that miscellaneous use (Fish culture and recreational purposes) is a valid beneficial use of the water. Beneficial use is the basis, measure, and the limit of all water rights. If the 550 GPM during the irrigation season is not beneficially applied for fish culture, recreational purposes, or irrigation purposes, the owner of Sherard No. 6 is legally obligated to forgo the water right and allow the water to be put to beneficial use by junior appropriators, i.e. the owner of Bill Ward No. 2.\
 
-## Curtailment of production from Bill Ward No. 2 to a "reasonable" level of interference.
+## Curtailment of production from Bill Ward No. 2 to a "reasonable" level of interference
 
 SEO records suggest that average annual water production from Bill Ward No. 2 Well during the last 5 years (2017-2021) was 96.34 acre-feet per year. Our calculations of the cones of depression caused by pumping Sherard No. 6 and Bill Ward No. 2 suggest that there would be a 31% overlap of the cones of depression if each well was operated for 95 days, with Sherard No. 6 pumping 550 GPM and Bill Ward No. 2 pumping 180 GPM. If this were the entire production for the year, the annualized production rate from Bill Ward No. 2 would be approximately 76 acre feet per year. This would be approximately 80% of the average annual production from Bill Ward No. 2 over the last 5 years. This reduction in pumping rate would reduce the magnitude of interference with Sherard No. 6 to a "reasonable" level, consistent with the use of the language "unreasonable interference" in Wyo. Stat. 41-3-911(a) while allowing continued operation of Bill Ward No. 2 to support irrigation use. Again, the statement about "unreasonable interference" occurs in reference to interference with domestic and stock wells specifically.\
 
 ## User Agreement
 
-Wyo. Stat. §41-3-915(c) specifies that appropriators within a Control Area “may agree to any method or scheme of control of withdrawals, well spacing, apportionment, rotation or proration of the common supply of underground water.”  The State Engineer encourages and promotes such agreements. Although the subject area is not a Control Area, it is analogous given its regulated status under the Horse Creek Order.  A User Agreement might provide a mechanism for implementing one of options described above.  A voluntary user agreement may be the most effective way to ration the available water resources.  The original property owners acknowledged this in stating in the remarks section of Permit No. U.W. 8539 that there was an agreement between the property owners (at the time) that Permit No. U.W. 5461 (Sherard No. 6) would have first right to use of the water.  The presence of that user agreement, however, does not diminish the validity of the Bill Ward No. 2 water right.  Personal communication with Gabriel Ruiz (8/18/2022) In the absence of a current workable user agreement; 
+Wyo. Stat. §41-3-915(c) specifies that appropriators within a Control Area "may agree to any method or scheme of control of withdrawals, well spacing, apportionment, rotation or proration of the common supply of underground water." The State Engineer encourages and promotes such agreements. Although the subject area is not a Control Area, it is analogous given its regulated status under the Horse Creek Order. A User Agreement might provide a mechanism for implementing one of options described above. A voluntary user agreement may be the most effective way to ration the available water resources. The original property owners acknowledged this in stating in the remarks section of Permit No. U.W. 8539 that there was an agreement between the property owners (at the time) that Permit No. U.W. 5461 (Sherard No. 6) would have first right to use of the water. The presence of that user agreement, however, does not diminish the validity of the Bill Ward No. 2 water right. It is suggested that SEO personnel work with the property owners to develop or revise a user agreement. Personal communication with Gabriel Ruiz (8/18/2022) suggests that there was a recent user agreement in place between the two property owners, but that Mr. Ruiz believes the other property owner is not following that agreement.  This should be revisited in discussions with the property owners.
 
-## Regulation of Bill Ward No. 2.
+## Regulation of Bill Ward No. 2
 
 Withdrawals of water from Bill Ward No. 2 could be stopped, to protect the senior water right of Sherard No. 6. This option is not preferred because of existing measures to conserve water and prevent priority regulation of groundwater wells in this area (Horse Creek Order). It is also likely that other wells contribute to the interference with Sherard No. 6, and it is possible and likely that nearby junior appropriator wells interfere with Bill Ward No. 2. Invoking this regulation mechanism would likely trigger a cascade of interference complaints that would expand outward to the point that most or all users of the single source of supply would become involved. This would likely result in priority regulation of all groundwater wells in the LaGrange Aquifer in a single schedule of priorities (Wyo. Stat. 41-3-916) in combination with surface water, which would result in the curtailment of groundwater use generally in favor of senior surface water rights.\
 
-{{< pagebreak >}} 
-# Conclusions and Recommendations
+{{< pagebreak >}}
+
+# Conclusions and Recommendations 
+
+..
+
+{{< pagebreak >}}
+
+# References 
+
 ..
